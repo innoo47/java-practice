@@ -38,11 +38,13 @@ public class ProductController {
         // -> Product 생성자 내부에서 ProductController의 count 클래스 변수 값이 1씩 증가
         count++;
 
+        // 현재 카운트 인덱스에 생성한 주소 저장
 
 
     }
 
     public void productPrint() {
+        // 현재까지 기록된 도서 정보 모두 출력
 
     }
 
